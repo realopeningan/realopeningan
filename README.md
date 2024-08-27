@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+### Experience
+- **알리는 사람들** - 2023/7 - Present
+- **직방** - 2022/3 - 2023/7
+- **경동 나비엔** - 2020/1 - 2022/3
+- **휴맥스** - 2013/3 - 2020/1
+
+### Side Projects
+ 
 <!--
 **realopeningan/realopeningan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
